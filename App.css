@@ -1,0 +1,21 @@
+.container {
+  border: 2px solid black;
+  margin: 0 auto;
+  text-align: center;
+  width: 250px;
+  font-size: 35px;
+  height: 300px;
+}
+
+.big-butt {
+  font-size: 55px;
+  text-align: center;
+  padding: 15px;
+}
+
+.header {
+  border: 2px solid gray;
+  background-color: #5d6062;
+  font-size: 45px;
+  text-align: center;
+}
